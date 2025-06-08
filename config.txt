@@ -1,0 +1,2 @@
+vless://15b24b56-d667-4fa8-b548-f3dc942fb461@172.67.208.155:443?security=tls&sni=2werty.2030.pp.ua&type=ws&host=2werty.2030.pp.ua&path=%2Fok1UBnf7txQ8YJFJxz&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com] vless-US
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.34.202:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🇸🇬[openproxylist.com] trojan-SG
